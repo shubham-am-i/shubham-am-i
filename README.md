@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **patilshubham2k21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15bTrEyM_rOCpCyp1f64bkR8lvQqaVV-M/view?usp=sharing](https://drive.google.com/file/d/15bTrEyM_rOCpCyp1f64bkR8lvQqaVV-M/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1NnWwvxwPqPhRsS5t_nzpWjsqUDTFOyHB/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
