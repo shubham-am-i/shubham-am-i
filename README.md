@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-am-i" alt="shubham-am-i" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **MERN projects**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **patilshubham2k21@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1NnWwvxwPqPhRsS5t_nzpWjsqUDTFOyHB/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1ttsPMQTwU71fgDt-tHX9afJYusEB7ILb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
