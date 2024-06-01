@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham from India</h1>
-<h3 align="center">A software engineer specializing in JavaScript ecosystem(JavaScript was assigned to me by fate)</h3>
+<h3 align="center">A software engineer specializing in JavaScript ecosystem (JavaScript was assigned to me by fate)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-am-i&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-am-i" /> </p>
 
