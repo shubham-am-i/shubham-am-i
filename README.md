@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shubham from India</h1>
-<h3 align="center">A full stack developer specialized in JavaScript Stack.</h3>
+<h3 align="center">A software engineer specializing in JavaScript ecosystem(JavaScript was assigned to me by fate)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-am-i&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-am-i" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-am-i" alt="shubham-am-i" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Cloud & Devops**
 
-- 👯 I’m looking to collaborate on **MERN projects**
+- 👯 Looking to collaborate on **software projects**
 
 - 📝 I regularly write articles on [Web Development, Life Skills](Web Development, Life Skills)
 
